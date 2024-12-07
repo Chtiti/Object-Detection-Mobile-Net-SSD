@@ -1,0 +1,1 @@
+In this project, we are going to learn how to detect objects using OpenCV and python. The Object Detection OpenCV method we will use is a sweet balance between speed and accuracy. Unlike many other object detection methods, we will be able to run this in real time with a good amount of accuracy.
